@@ -1,0 +1,7 @@
+[
+  {"id": 1, "value": "sum(2, 3)"},
+  {"id": 2, "value": "multiply(2, 4)"},
+  {"id": 3, "value": "lcm(3, 5)"},
+  {"id": 4, "value": "sum(1, 7)"},
+  {"id": 5, "value": "multiply(3, 3)"}
+]
